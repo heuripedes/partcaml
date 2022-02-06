@@ -1,0 +1,15 @@
+EXCLUDE_QUERY_DIR
+B /home/higor/code/partcaml/_opam/lib/bitstring
+B /home/higor/code/partcaml/_opam/lib/bytes
+B /home/higor/code/partcaml/_opam/lib/extlib
+B /usr/lib64/ocaml
+B ../_build/default/bin/.main.eobjs/byte
+B ../_build/default/lib/.lib.objs/byte
+S /home/higor/code/partcaml/_opam/lib/bitstring
+S /home/higor/code/partcaml/_opam/lib/bytes
+S /home/higor/code/partcaml/_opam/lib/extlib
+S /usr/lib64/ocaml
+S .
+S ../lib
+FLG -ppx '/home/higor/code/partcaml/_build/default/.ppx/e179f4748bf65c18740096bdc9df0399/ppx.exe --as-ppx'
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs

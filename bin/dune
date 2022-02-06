@@ -1,0 +1,5 @@
+(executable
+    (name main)
+    (libraries lib bitstring extlib)
+    (preprocess (pps bitstring.ppx)))
+    
